@@ -1,0 +1,38 @@
+19:40:30.812 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Page
+19:40:31.558 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Page
+19:40:31.567 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details 
+19:40:32.876 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messages..
+19:40:32.931 [main] INFO  testCases.TC001_AccountRegistrationTest - Test case passed
+19:40:32.932 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Finished TC001_AccountRegistrationTest ************
+19:40:35.898 [main] INFO  testCases.TC002_LoginTest - ***********Starting TC002_LoginTest***********
+19:40:37.764 [main] INFO  testCases.TC002_LoginTest - ***********Finished TC002_LoginTest***********
+22:04:47.839 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunil\OneDrive\Desktop\java code\OPenCartV121_Framework\Grouping.xml
+
+22:05:10.144 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunil\OneDrive\Desktop\java code\OPenCartV121_Framework\Grouping.xml
+
+22:07:52.739 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunil\OneDrive\Desktop\java code\OPenCartV121_Framework\Grouping.xml
+
+22:08:46.802 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\sunil\OneDrive\Desktop\java code\OPenCartV121_Framework\Grouping.xml
+
+22:08:52.030 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest ************
+22:08:52.196 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Page
+22:08:52.812 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Page
+22:08:52.815 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details 
+22:08:54.925 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messages..
+22:08:54.974 [main] INFO  testCases.TC001_AccountRegistrationTest - Test case passed
+22:08:54.974 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Finished TC001_AccountRegistrationTest ************
+22:08:58.430 [main] INFO  testCases.TC002_LoginTest - ***********Starting TC002_LoginTest***********
+22:09:00.178 [main] INFO  testCases.TC002_LoginTest - ***********Finished TC002_LoginTest***********
+22:33:02.524 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Starting TC001_AccountRegistrationTest ************
+22:33:02.692 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account Page
+22:33:03.734 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Page
+22:33:03.738 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details 
+22:33:05.575 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected messages..
+22:33:05.629 [main] INFO  testCases.TC001_AccountRegistrationTest - Test case passed
+22:33:05.629 [main] INFO  testCases.TC001_AccountRegistrationTest - *********** Finished TC001_AccountRegistrationTest ************
+22:33:09.413 [main] INFO  testCases.TC002_LoginTest - ***********Starting TC002_LoginTest***********
+22:33:11.183 [main] INFO  testCases.TC002_LoginTest - ***********Finished TC002_LoginTest***********
